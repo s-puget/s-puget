@@ -2,7 +2,7 @@
 
 ## 🎓 About Me  
 I am a student at the French engineering school **École Centrale de Lille**, specializing in **Data Science & AI**.  
-Currently, I am enrolled in a **work-study program** (a contract where I alternate between school and work) at **Ivalua**, where I help develop an **AI-powered chatbot** for their 3,000+ clients. My work focuses on optimizing **LLM performance**  and improving **retrieval-augmented generation (RAG) techniques** to enhance the chatbot’s accuracy and efficiency.
+Currently, I am enrolled in a **work-study program** (a contract where I alternate between school and work) at **Ivalua**, where I help develop an **AI-powered chatbot** for their 3,000+ clients. My work focuses on optimizing **LLM performance**  and improving **(RAG)** to enhance the chatbot’s accuracy and efficiency.
 
 ## 🚀 Passion for AI  
 I am passionate about **Artificial Intelligence** and love working on innovative projects in this field.  
